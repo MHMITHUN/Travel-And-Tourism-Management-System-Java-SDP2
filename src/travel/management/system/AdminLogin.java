@@ -63,7 +63,7 @@ public class AdminLogin extends JPanel implements ActionListener{
         
         
         l5 = new JLabel("ADMIN LOGIN");
-        l5.setBounds(640, 160, 400, 50);
+        l5.setBounds(560, 160, 400, 50);
         l5.setFont(new Font("TIMES NEW ROMAN", Font.PLAIN, 40));
         l5.setForeground(new Color(205, 92, 92));
         l5.setBackground(Color.WHITE);

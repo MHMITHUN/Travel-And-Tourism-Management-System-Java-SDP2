@@ -109,7 +109,7 @@ public class Signup extends JPanel implements ActionListener{
         b1.setForeground(new Color(139, 69, 19));
 	p1.add(b1);
 
-	b2 = new JButton("Back");
+	b2 = new JButton("Login");
 	b2.setFont(new Font("Tahoma", Font.BOLD, 13));
 	b2.setBounds(190, 225, 120, 25);
 	b2.setBackground(new Color(255, 235, 205));

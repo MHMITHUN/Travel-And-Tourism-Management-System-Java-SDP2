@@ -76,7 +76,7 @@ public class Home extends JFrame implements Runnable, ActionListener{
         btn = b1;
         activeButton(b1);
        
-        b2 = new JButton("Login");
+        b2 = new JButton("User Login");
         b2.setForeground(Color.WHITE);
         b2.setBackground(new Color(0, 139, 139, 220));
 	b2.setBounds(1317, 7, 100, 46);
